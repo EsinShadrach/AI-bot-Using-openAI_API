@@ -1,3 +1,3 @@
 # AI-bot-Using-openAI_API
 Making an AI bot Using Open AI API
-You'll need to get an APIkey from [openAI](https://openai.com/)
+You'll need to get an APIkey from [openAI](https://openai.com/) then navigate to their [API Page](https://beta.openai.com/account/api-keys) click generate new secret key and copy past into the code where secret key should be
