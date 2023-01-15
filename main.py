@@ -5,7 +5,7 @@ from tkinter import (
 import openai as oa
 from datetime import datetime as dt
 
-oa.api_key = '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'
+oa.api_key = ''
 end_reply: str = "\n\nI hope this helps! Let me know if you have any other questions.\n"
 file_name = 'gpt'
 quit_conditions: set = {'quit', 'q', 'end', 'stop'}
